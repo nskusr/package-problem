@@ -5,18 +5,18 @@ Please make sure that you have the following tools installed:
 * Junit
 * Maven
 
-### Command to install the maven dependency
+### Command to install
 ```
 mvn clean install
 ```
 
-### How to package
+### Command to package
 
 ```
 mvn clean compile assembly:single
 ```
  
- ### Executing Test
+ ### Command to execute test
  ```
  mvn clean test
 ```
